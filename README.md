@@ -3,28 +3,44 @@
 East West University
 
 Course Title: Composition and Communication Skills
+
 Course Code: ENG 102
+
 Section: 05
+
 Term Paper on “Animal cruelty in Bangladesh”
+
 19 August 2021
 
 
 Name: Yeamin Arafat Limon
+
 ID: 2019-2-50-005
+
 Name: Ratan Chandra Baray
+
 ID: 2019-2-80-024
+
 Name: Most.Maharin Rahman
+
 ID: 2020-2-33-010
+
 Name: Marufa Islam
+
 ID: 2020-2-33-009
+
 Name: Tanjila Afrin
+
 ID: 2020-3-30-013
 
 
 
 Submitted to: Shuvo Saha
+
 Designation: Lecturer
+
 Department of English
+
 East West University
 
 TABLE OF CONTENTS
